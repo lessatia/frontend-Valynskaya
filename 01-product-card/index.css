@@ -1,1 +1,140 @@
 /* Смотри сколько снизу свободного места! Оно идеально подойдёт, чтобы писать твои стили! */
+* {
+  padding-inline-start: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial";
+}
+/* Regular */
+@font-face {
+  font-family: "Arial";
+  src: url("../fonts/Arial-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Black */
+@font-face {
+  font-family: "Arial";
+  src: url("../fonts/Arial-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+main {
+  background: #f6f6f6;
+  padding: 40px 0 60px;
+}
+
+.topic__text {
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 72px;
+  font-family: "Arial";
+  text-align: center;
+  color: #000000;
+  padding: 0 24px;
+}
+.products {
+  display: grid;
+  grid-template-columns: repeat(3, 380px);
+  grid-gap: 20px;
+  justify-content: center;
+  margin-top: 40px;
+  color: #2f2f2f;
+}
+.card {
+  position: relative;
+  background: #ffffff;
+  border-radius: 12px;
+  width: 100%;
+  min-height: 482px;
+  box-shadow: 0px 0px 45px -4px #0000002e;
+  border-radius: 12px;
+  display: grid;
+  grid-template-rows: 213.75px auto 1fr 48px;
+  padding-bottom: 24px;
+}
+.image__orange {
+  max-width: 100%;
+  width: 100%;
+}
+.tag {
+  border-radius: 8px;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+}
+.tag__new {
+  background: #fdcff3;
+  position: absolute;
+  left: 16.73px;
+  top: 16.33px;
+  padding: 0 16px;
+}
+.tag__last {
+  background: #ffcf56;
+  position: absolute;
+  top: 16.33px;
+  left: 143.73px;
+  padding: 0 16px 0 16.41px;
+}
+.button__basket {
+  margin: 0px 24px;
+  padding: 11.5px 0;
+  border: 2px solid #42940f;
+  border-radius: 8px;
+  background-color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 18px;
+  color: #42940f;
+  align-items: center;
+  line-height: 25px;
+}
+.products__heading {
+  font-weight: 900;
+  font-size: 24px;
+  margin: 24px 24px 16px 24px;
+}
+.products__description {
+  font-size: 16px;
+  margin: 0px 24px;
+  line-height: 24px;
+}
+
+.button__basket:hover {
+  border: 2px solid #42940f;
+  background: #42940f;
+  color: #ffffff;
+}
+.button__basket:active {
+  border: 2px solid #1f5200;
+  background: #1f5200;
+  color: #ffffff;
+}
+.button__basket:disabled {
+  border: 1px solid #4e4e4e;
+  background: #4e4e4e;
+  color: #ffffff;
+}
+
+@media (max-width: 1280px) {
+  .products {
+    grid-template-columns: repeat(2, 380px);
+  }
+}
+@media (max-width: 768px) {
+  .products {
+    grid-template-columns: 380px;
+  }
+}
+@media (max-width: 500px) {
+  .products {
+    grid-template-columns: 320px;
+  }
+}
