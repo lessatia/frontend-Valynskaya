@@ -1,10 +1,10 @@
 # Tatsiana Valynskaya
 
 ## Junior Frontend Developer
-## Contact information: ![Photo](https://media-exp1.licdn.com/dms/image/D4E35AQHWMquz9FzAJg/profile-framedphoto-shrink_200_200/0/1653990119991?e=1663596000&v=beta&t=2Ak61Z5AV_1a7Bwu0_5UIgHgr2fmP07TReV41_kw4sg)
-**Phone:** +375 (29) 1535074 (Telegram, Viber, WhatsApp)  
-**Email:**  tvalynskaya@gmail.com  
-**Skype:**  Tatsiana Valynskaya    
+## Contact information:
+|**Phone:** +375 (29) 1535074 (Telegram, Viber, WhatsApp)  | ![Photo](https://media-exp1.licdn.com/dms/image/D4E35AQHWMquz9FzAJg/profile-framedphoto-shrink_200_200/0/1653990119991?e=1663596000&v=beta&t=2Ak61Z5AV_1a7Bwu0_5UIgHgr2fmP07TReV41_kw4sg)
+|**Email:**  tvalynskaya@gmail.com  |
+|**Skype:**  Tatsiana Valynskaya    |
 **Address:**  Belarus, Minsk  
 **Discord:** Tatsiana#2420  
 **[GitHub](https://github.com/lessatia)**    
