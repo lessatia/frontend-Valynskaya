@@ -37,16 +37,16 @@ function multiply(a, b){
 01.2022 – 04.2022        
 Exadel Inc.    
 Position: QA Engineer  
-Responsibilities included: 
+Responsibilities included:   
                           - Requirements analysis;  
                           - Planning the testing process;   
                           - Developing of positive/negative/boundary scenarios;  
                           - Preparation of testing data;  
                           - Writing test cases and test suites; 
-                          - Test coverage analysis;
-                          - Tracking the life cycle of errors; 
-                          - Optimization of the testing process; 
-                          - Checking programs from the point of view of an expert and an ordinary user;
+                          - Test coverage analysis;  
+                          - Tracking the life cycle of errors;   
+                          - Optimization of the testing process;   
+                          - Checking programs from the point of view of an expert and an ordinary user;  
                           - Looking for bugs and evaluating the functionality of the product.
 
 ## Education and Certificates 
