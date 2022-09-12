@@ -18,12 +18,12 @@ Solution-oriented and hands-on technical utility specialist, centered in hardwar
 ## Technical Skills 
 
 Programming language: JavaScript 
-Automation Testing: WebdriverIO framework (Mocha/Cucumber/Gherkin) https://github.com/lessatia/JS-AutomationQA 
-API Testing: Postman (Automated test collections) https://github.com/lessatia/Postman,     
-Programs and tools: VS Code, nodeJS https://github.com/lessatia/JS_course 
-BrowserStack, Selenium IDE, Devtools, Fiddler, Swagger, CMS System (WordPress), VCS (Git/Github) https://github.com/lessatia/Git_Hub-branches, 
-Bash https://github.com/lessatia/Bash,  
-CSS, JSON, XML, HTML, https://github.com/lessatia/JS-theZoo_webSite, https://github.com/lessatia/cinema-project, 
+Automation Testing: [WebdriverIO framework (Mocha/Cucumber/Gherkin)](https://github.com/lessatia/JS-AutomationQA),
+API Testing: [Postman (Automated test collections)]( https://github.com/lessatia/Postman),     
+Programs and tools: [VS Code, nodeJS](https://github.com/lessatia/JS_course), 
+BrowserStack, Selenium IDE, Devtools, Fiddler, Swagger, CMS System (WordPress), [VCS (Git/Github)]( https://github.com/lessatia/Git_Hub-branches),
+[Bash]( https://github.com/lessatia/Bash),  
+[CSS, JSON, XML, HTML,](https://github.com/lessatia/JS-theZoo_webSite)
 Database Management: MS SQL Server
 Bug Tracking Systems: Jira
 
