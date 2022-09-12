@@ -1,4 +1,4 @@
-# Tatsiana Valynskaya
+# Tatsiana Valynskaya :motocyclist: :bicyclist:
 ![Photo](https://media-exp1.licdn.com/dms/image/D4E35AQHWMquz9FzAJg/profile-framedphoto-shrink_200_200/0/1653990119991?e=1663596000&v=beta&t=2Ak61Z5AV_1a7Bwu0_5UIgHgr2fmP07TReV41_kw4sg) 
 
 ## Junior Frontend Developer
@@ -18,12 +18,12 @@ Solution-oriented and hands-on technical utility specialist, centered in hardwar
 ## Technical Skills 
 
 Programming language: JavaScript   
-Automation Testing: [WebdriverIO framework (Mocha/Cucumber/Gherkin)](https://github.com/lessatia/JS-AutomationQA),  
-API Testing: [Postman (Automated test collections)]( https://github.com/lessatia/Postman),   
-Programs and tools: [VS Code, nodeJS](https://github.com/lessatia/JS_course),   
-BrowserStack, Selenium IDE, Devtools, Fiddler, Swagger, CMS System (WordPress), [VCS (Git/Github)]( https://github.com/lessatia/Git_Hub-branches),
-Bash( https://github.com/lessatia/Bash),  
-CSS, JSON, XML, HTML, https://github.com/lessatia/JS-theZoo_webSite  
+Automation Testing: WebdriverIO framework (Mocha/Cucumber/Gherkin)(https://github.com/lessatia/JS-AutomationQA),  
+API Testing: Postman (Automated test collections)(https://github.com/lessatia/Postman),   
+Programs and tools: VS Code, nodeJS(https://github.com/lessatia/JS_course),   
+BrowserStack, Selenium IDE, Devtools, Fiddler, Swagger, CMS System (WordPress), VCS (Git/Github)(https://github.com/lessatia/Git_Hub-branches),
+Bash(https://github.com/lessatia/Bash),  
+CSS, JSON, XML, HTML (https://github.com/lessatia/JS-theZoo_webSite) 
 Database Management: MS SQL Server
 Bug Tracking Systems: Jira  
 
