@@ -17,7 +17,7 @@ Solution-oriented and hands-on technical utility specialist, centered in hardwar
 
 ## Technical Skills 
 
-Programming language: JavaScript 
+Programming language: JavaScript   
 Automation Testing: [WebdriverIO framework (Mocha/Cucumber/Gherkin)](https://github.com/lessatia/JS-AutomationQA),  
 API Testing: [Postman (Automated test collections)]( https://github.com/lessatia/Postman),   
 Programs and tools: [VS Code, nodeJS](https://github.com/lessatia/JS_course),   
