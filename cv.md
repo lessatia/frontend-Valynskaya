@@ -1,7 +1,7 @@
 # Tatsiana Valynskaya
 
 ## Junior Frontend Developer
-## Contact information: ![Photo](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png(https://media-exp1.licdn.com/dms/image/D4E35AQHWMquz9FzAJg/profile-framedphoto-shrink_200_200/0/1653990119991?e=1663596000&v=beta&t=2Ak61Z5AV_1a7Bwu0_5UIgHgr2fmP07TReV41_kw4sg))
+## Contact information: ![Photo](https://media-exp1.licdn.com/dms/image/D4E35AQHWMquz9FzAJg/profile-framedphoto-shrink_200_200/0/1653990119991?e=1663596000&v=beta&t=2Ak61Z5AV_1a7Bwu0_5UIgHgr2fmP07TReV41_kw4sg)
 **Phone:** +375 (29) 1535074 (Telegram, Viber, WhatsApp)  
 **Email:**  tvalynskaya@gmail.com  
 **Skype:**  Tatsiana Valynskaya    
