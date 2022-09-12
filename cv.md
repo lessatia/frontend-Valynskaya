@@ -2,12 +2,12 @@
 ## Junior Frontend Developer
 ## Contact information:
 **Phone:** +375 (29) 1535074 (Telegram, Viber, WhatsApp)   
- **Email:**  tvalynskaya@gmail.com
+**Email:**  tvalynskaya@gmail.com
 **Skype:**  Tatsiana Valynskaya  
- **Address:**  Belarus, Minsk
- **Discord:** Tatsiana#2420
- **[GitHub:](https://github.com/lessatia)**  
- **[Linkedin:](https://www.linkedin.com/in/tanya-valynskaya)**  
+**Address:**  Belarus, Minsk
+**Discord:** Tatsiana#2420
+**[GitHub:](https://github.com/lessatia)**  
+**[Linkedin:](https://www.linkedin.com/in/tanya-valynskaya)**  
 
 ## Objective 
 
