@@ -38,10 +38,10 @@ function multiply(a, b){
 Exadel Inc.    
 Position: QA Engineer  
 Responsibilities included: 
-                          - Requirements analysis;
-                          - Planning the testing process; 
-                          - Developing of positive/negative/boundary scenarios;
-                          - Preparation of testing data;
+                          - Requirements analysis;  
+                          - Planning the testing process;   
+                          - Developing of positive/negative/boundary scenarios;  
+                          - Preparation of testing data;  
                           - Writing test cases and test suites; 
                           - Test coverage analysis;
                           - Tracking the life cycle of errors; 
@@ -61,4 +61,4 @@ Specialization: zoology, animal behaviorist
 * Vadim Ksendzov’s practical QA course (2022)   
 
 ## Language Proficiency:
-English B1, Polish A1, Russian(native)
+**English B1**, Polish A1, Russian(native)
