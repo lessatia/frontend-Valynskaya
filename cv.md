@@ -15,7 +15,7 @@
 
 **Linkedin:** https://www.linkedin.com/in/tanya-valynskaya 
 
-## Objective
+## Objective 
 
 Solution-oriented and hands-on technical utility specialist, centered in hardware and software testing. Ability to learn quickly, often in high pressure situations, in order to fully understand a new product, platform or any mixture of the two. Aimed at highly effective teamwork using excellent communication skills. Applying for a position of a QA Engineer / JavaScript Automation QA Engineer with a possibility to perform production tasks and continuously grow within the company.
 
