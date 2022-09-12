@@ -1,6 +1,5 @@
 # Tatsiana Valynskaya  :ok_hand:
 ![Photo](https://media-exp1.licdn.com/dms/image/D4E35AQHWMquz9FzAJg/profile-framedphoto-shrink_200_200/0/1653990119991?e=1663596000&v=beta&t=2Ak61Z5AV_1a7Bwu0_5UIgHgr2fmP07TReV41_kw4sg) 
-![image](https://user-images.githubusercontent.com/57133617/189755513-8c411170-7bf8-49a3-a9ec-1e7f1849e7d1.png)
 
 ## Junior Frontend Developer
 ## Contact information:
