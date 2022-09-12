@@ -6,8 +6,8 @@
 **Skype:**  Tatsiana Valynskaya    
 **Address:**  Belarus, Minsk  
 **Discord:** Tatsiana#2420  
-**[GitHub:](https://github.com/lessatia)**    
-**[Linkedin:](https://www.linkedin.com/in/tanya-valynskaya)**  
+**[GitHub](https://github.com/lessatia)**    
+**[Linkedin](https://www.linkedin.com/in/tanya-valynskaya)**  
 
 ## Objective 
 
@@ -26,9 +26,11 @@ Database Management: MS SQL Server
 Bug Tracking Systems: Jira
 
 ## Code example:
-``` function multiply(a, b){
+``` 
+function multiply(a, b){
   return a * b  
-} ```
+} 
+```
 
 ## Work experience 
 
