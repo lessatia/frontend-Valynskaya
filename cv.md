@@ -11,9 +11,9 @@
 
 **Discord:** Tatsiana#2420
 
-**GitHub:** https://github.com/lessatia 
+**[GitHub:](https://github.com/lessatia)**  
 
-**Linkedin:** https://www.linkedin.com/in/tanya-valynskaya 
+**[Linkedin:](https://www.linkedin.com/in/tanya-valynskaya)**  
 
 ## Objective 
 
@@ -33,9 +33,7 @@ Bug Tracking Systems: Jira
 
 ## Code example:
 `function multiply(a, b){
-
-  return a * b
-  
+  return a * b  
 }`
 
 ## Work experience 
