@@ -34,28 +34,31 @@ function multiply(a, b){
 
 ## Work experience 
 
-01.2022 –          ¬Exadel Inc.    
-04.2022             Position: QA Engineer
-                          Responsibilities included: 
-                          Requirements analysis;
-                          Planning the testing process; 
-                          Developing of positive/negative/boundary scenarios;
-                          Preparation of testing data;
-                          Writing test cases and test suites; 
-                          Test coverage analysis;
-                          Tracking the life cycle of errors; 
-                          Optimization of the testing process; 
-                          Checking programs from the point of view of an expert and an ordinary user;
-                          Looking for bugs and evaluating the functionality of the product.
+01.2022 – 04.2022        
+Exadel Inc.    
+Position: QA Engineer  
+Responsibilities included: 
+                          - Requirements analysis;
+                          - Planning the testing process; 
+                          - Developing of positive/negative/boundary scenarios;
+                          - Preparation of testing data;
+                          - Writing test cases and test suites; 
+                          - Test coverage analysis;
+                          - Tracking the life cycle of errors; 
+                          - Optimization of the testing process; 
+                          - Checking programs from the point of view of an expert and an ordinary user;
+                          - Looking for bugs and evaluating the functionality of the product.
 
 ## Education and Certificates 
 
-09.2009 –          Belarusian State University, Minsk, Belarus, Biology faculty,                          
-06.2014             Specialization: zoology, animal behaviorist            
+09.2009 – 06.2014 
+Belarusian State University, Minsk, Belarus, Biology faculty,   
+Specialization: zoology, animal behaviorist            
                                            
-• Web developer courses in HTML Academy (2019)
-• JS Automation QA sandbox training in Exadel (2021)  
-• QA courses in Prometheus IT School (2022)
-• Vadim Ksendzov’s practical QA course (2022)   
+* Web developer courses in HTML Academy (2019)  
+* JS Automation QA sandbox training in Exadel (2021)    
+* QA courses in Prometheus IT School (2022)  
+* Vadim Ksendzov’s practical QA course (2022)   
 
-## Language Proficiency: English B1, Polish A1, Russian(native)
+## Language Proficiency:
+English B1, Polish A1, Russian(native)
