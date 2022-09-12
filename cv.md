@@ -1,6 +1,6 @@
-#Tatsiana Valynskaya
-##Junior Frontend Developer
-##Contact information:
+# Tatsiana Valynskaya
+## Junior Frontend Developer
+## Contact information:
 ###Phone: +375 (29) 1535074 (Telegram, Viber, WhatsApp)     
 ###Email:  tvalynskaya@gmail.com
 ###Skype:  Tatsiana Valynskaya  
